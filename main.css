@@ -1,0 +1,17 @@
+body{
+    padding: 0 20px;
+    background-color: darkgrey;
+    width: 300px;
+    height: 600px;
+}
+h1{
+    color: white;
+    font-size: 24px;
+}
+.kwadrat{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 0 0 10px 10px
+    
+}
